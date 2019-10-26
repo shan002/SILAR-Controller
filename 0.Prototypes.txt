@@ -1,0 +1,13 @@
+void callibrate(void);
+void go_init(void);
+void x_axis(int n);
+void y_axis(int n);
+void y_top(int len);
+void y_bottom(int dip_len);
+void go_pos(char *order, int times);
+char show_menu(void);
+void settings(void);
+void Run(void);
+void dis_inp(int row, int col1, int col2);
+void homepage(void);
+void show_limit(void);
